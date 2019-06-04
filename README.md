@@ -17,7 +17,4 @@ Add more breweries.
 Add hover text to each image.
 
 
-Add more links to other breweries, currently only have 1.
-
-
 Brainstorm more ideas for this website...
