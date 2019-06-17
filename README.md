@@ -17,4 +17,7 @@ Add more breweries.
 Add hover text to each image.
 
 
+Clean up header and footer.
+
+
 Brainstorm more ideas for this website...
