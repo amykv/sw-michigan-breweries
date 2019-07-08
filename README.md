@@ -20,4 +20,7 @@ Add hover text to each image.
 Clean up header and footer.
 
 
+Implement some Javascript, maybe SQL somehow.
+
+
 Brainstorm more ideas for this website...
