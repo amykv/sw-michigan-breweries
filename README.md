@@ -11,7 +11,7 @@ This website is for beer fans and tourists. Also for me since I like the local b
 TO DO:
 
 
-Add more breweries.
+Add more breweries and possibly update current pictures.
 
 
 Add hover text to each image.
