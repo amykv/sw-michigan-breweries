@@ -5,7 +5,7 @@ Simple website utilizing flexbox to show pictures of breweries in Berrien County
 Only one web page. Has an HTML file and CSS file. Imported one image locally, the others were found online.
 
 
-This website is for beer fans and tourists of Berrien County. Also for me since I like the local breweries. Made this to work on my personal skills on HTML and CSS. Can be refactored for other areas/topics.
+This website is for beer fans and tourists of Berrien County. Also for me since I like the local breweries. Made this to work on my personal skills on HTML and CSS. Can be refactored for other areas/stores/restaurants/topics.
 
 
 TO DO:
