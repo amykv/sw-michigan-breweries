@@ -5,7 +5,7 @@ A website utilizing flexbox to show pictures of breweries in Berrien County, Mic
 Only one web page. Has an HTML file and CSS file. Imported one image locally, the others were found online.
 
 
-This website is for beer fans and tourists of Berrien County. Also for me since I like the local breweries. Made this to work on my personal skills on HTML and CSS. Can be refactored for other areas/stores/restaurants/topics. Completed project functionally. Can add more breweries.
+This website is for beer fans and tourists of Berrien County. Also for me since I like the local breweries. Made this to work on my personal skills on HTML and CSS. Can be refactored for other areas/stores/restaurants/topics. Functionally, project is completed. Can add more breweries. 
 
 
 SCREENSHOT:
@@ -24,7 +24,4 @@ Add hover text to each image.
 Clean up header and footer.
 
 
-Implement some Javascript, maybe SQL somehow. Make the website live.
-
-
-Brainstorm more ideas for this website...
+Better UI design with fonts, graphics, headers, etc.
