@@ -4,10 +4,6 @@ A website utilizing flexbox to show pictures of breweries in Berrien County, Mic
 
 Only one web page. Has an HTML file and CSS file. Imported one image locally, the others were found online.
 
-
-This website is for beer fans and tourists of Berrien County. Functionally, project is completed. Can add more breweries. 
-
-
 SCREENSHOT:
 ![One](https://raw.githubusercontent.com/amvitkus/sw-michigan-breweries/master/1.png)
 
