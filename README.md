@@ -1,4 +1,4 @@
-# SWMichigan-Breweries
+# sw-michigan-breweries
 A website utilizing flexbox to show pictures of breweries in Berrien County, Michigan. Currently the user can click on one of the images to go the breweries main website. Images themselves hover.
 
 
