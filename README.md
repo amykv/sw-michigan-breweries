@@ -6,18 +6,3 @@ Only one web page. Has an HTML file and CSS file. Imported one image locally, th
 
 SCREENSHOT:
 ![One](https://raw.githubusercontent.com/amvitkus/sw-michigan-breweries/master/1.png)
-
-
-TO DO:
-
-
-Add more breweries and possibly update current pictures.
-
-
-Add hover text to each image.
-
-
-Clean up header and footer.
-
-
-Better UI design with fonts, graphics, headers, etc.
