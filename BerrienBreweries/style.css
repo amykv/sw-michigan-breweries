@@ -21,9 +21,9 @@ body {
 h1 {
 	font-family: monospace;
 	font-size: 3em;
-	color: green;
-	border-bottom: 2px solid green;
-	border-right: 2px solid green;
+	color: teal;
+	border-bottom: 2px solid teal;
+	border-right: 2px solid teal;
 	width: 400px;
 	text-align: center;
 	-moz-box-shadow:4px 4px 5px #888888;
